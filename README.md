@@ -8,7 +8,7 @@
 
 
 ### Demo - Deployed over Github Pages 
-https://davcast.web.app/
+https://david12peters.github.io/davecast/
 
 
 ### APIs Used

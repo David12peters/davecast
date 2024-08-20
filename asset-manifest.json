@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/davecast/static/css/main.3fdfcb14.css",
+    "main.js": "/davecast/static/js/main.d36bdb1f.js",
+    "static/media/SecondaSoft-Thin.otf": "/davecast/static/media/SecondaSoft-Thin.c893b8cf12696fcd671b.otf",
+    "static/media/SecondaSoft-BlackIt.otf": "/davecast/static/media/SecondaSoft-BlackIt.c68d8faa6aebfc0ab911.otf",
+    "static/media/SecondaSoft-Light.otf": "/davecast/static/media/SecondaSoft-Light.6961a16cd539c76ac68c.otf",
+    "static/media/SecondaSoft-Medium.otf": "/davecast/static/media/SecondaSoft-Medium.21b79f495f957d02aa83.otf",
+    "static/media/SecondaSoft-Bold.otf": "/davecast/static/media/SecondaSoft-Bold.1c7f1f344d4a8e53809e.otf",
+    "static/media/SecondaSoft-Black.otf": "/davecast/static/media/SecondaSoft-Black.85f57643b25b37650d5f.otf",
+    "static/media/SecondaSoft-Regular.otf": "/davecast/static/media/SecondaSoft-Regular.3a8b60c87ad82f52a15a.otf",
+    "static/media/logo.png": "/davecast/static/media/logo.5a65d6af42d1abeb3349.png",
+    "static/media/logowhite.png": "/davecast/static/media/logowhite.65c6765bd5bbe86653c2.png",
+    "static/media/temperature.svg": "/davecast/static/media/temperature.e4d33b06496913b582961f8124a902d5.svg",
+    "static/media/wind.svg": "/davecast/static/media/wind.ae387f52914138db7ac5d1cc7abdb051.svg",
+    "static/media/close.svg": "/davecast/static/media/close.c77f10e4c08d40af5f1ccf25a43b2ac5.svg",
+    "static/media/menu.svg": "/davecast/static/media/menu.0b8796dcff6b9d88f160a5096039aa18.svg",
+    "static/media/humidity.svg": "/davecast/static/media/humidity.7767a2d84d56988e79cc610c643d8078.svg",
+    "index.html": "/davecast/index.html",
+    "main.3fdfcb14.css.map": "/davecast/static/css/main.3fdfcb14.css.map",
+    "main.d36bdb1f.js.map": "/davecast/static/js/main.d36bdb1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fdfcb14.css",
+    "static/js/main.d36bdb1f.js"
+  ]
+}
