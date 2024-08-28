@@ -7,7 +7,7 @@ function App() {
 	return (
 		<>
 			<Navbar />
-			<Routes basename="davecast" >
+			<Routes>
 				<Route path='/' element={<Home />} />
 			</Routes>
 		</>
